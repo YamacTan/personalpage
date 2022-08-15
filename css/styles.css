@@ -1,0 +1,16 @@
+body{
+    background-color: #FFD460;
+}
+h1{
+    font-size: 40px;
+}
+hr{
+    border-style: solid;
+    color: black
+}
+#copyright{
+    text-align: center;
+}
+#title{
+    font-size: 25px;
+}
